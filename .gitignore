@@ -1,0 +1,4 @@
+*
+!.gitignore
+!aggregate_functions.sql
+!window_functions.sql
